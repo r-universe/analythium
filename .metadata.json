@@ -1,9 +1,0 @@
-[
-  {
-    "package": "rconfig",
-    "oncran": true
-  },
-  {
-    "package": "deps"
-  }
-]
