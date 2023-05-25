@@ -13,3 +13,8 @@
 	url = https://github.com/analythium/deps
 	shallow = true
 	registered = true
+[submodule "tryr"]
+	path = tryr
+	url = https://github.com/analythium/tryr
+	shallow = true
+	registered = true
