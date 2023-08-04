@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/analythium/universe
-	shallow = true
 	branch = HEAD
-[submodule "rconfig"]
-	path = rconfig
-	url = https://github.com/analythium/rconfig
-	shallow = true
-	registered = true
 [submodule "deps"]
 	path = deps
 	url = https://github.com/analythium/deps
-	shallow = true
-	registered = true
+[submodule "rconfig"]
+	path = rconfig
+	url = https://github.com/analythium/rconfig
 [submodule "tryr"]
 	path = tryr
 	url = https://github.com/analythium/tryr
-	shallow = true
-	registered = true
